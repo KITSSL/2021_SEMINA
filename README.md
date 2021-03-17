@@ -12,3 +12,6 @@
 | 05 |2021-02-09|Vue.js|박건웅|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/2%EC%9B%94/%EC%84%B8%EB%AF%B8%EB%82%984.pptx)|
 | 06 |2021-02-16|간단 CSS|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/2%EC%9B%94/20210216%20%EA%B0%84%EB%8B%A8CSS.pptx)|
 | 07 |2021-02-16|데이터 분석 라이브러리2|이정철||
+| 08 |2021-03-02||박건웅||
+| 09 |2021-03-09||박규현||
+| 010 |2021-03-16|알고리즘 구현|염정아||
