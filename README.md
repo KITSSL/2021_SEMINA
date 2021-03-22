@@ -12,6 +12,6 @@
 | 05 |2021-02-09|Vue.js|박건웅|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/2%EC%9B%94/%EC%84%B8%EB%AF%B8%EB%82%984.pptx)|
 | 06 |2021-02-16|간단 CSS|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/2%EC%9B%94/20210216%20%EA%B0%84%EB%8B%A8CSS.pptx)|
 | 07 |2021-02-16|데이터 분석 라이브러리2|이정철||
-| 08 |2021-03-02||박건웅||
-| 09 |2021-03-09||박규현||
+| 08 |2021-03-02|챗봇|박건웅|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/3%EC%9B%94/%EC%84%B8%EB%AF%B8%EB%82%985.pptx)|
+| 09 |2021-03-09|Deep Learning (1)|박규현|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/3%EC%9B%94/20190431%20deeplearning(1).7z)|
 | 010 |2021-03-16|알고리즘 구현|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/3%EC%9B%94/20210316%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B5%AC%ED%98%84.pptx)|
