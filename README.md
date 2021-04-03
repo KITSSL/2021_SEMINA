@@ -16,7 +16,7 @@
 | 09 |2021-03-09|Deep Learning (1)|박규현|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/3%EC%9B%94/20190431%20deeplearning(1).7z)|
 | 010 |2021-03-16|알고리즘 구현|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/3%EC%9B%94/20210316%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B5%AC%ED%98%84.pptx)|
 | 011 |2021-03-23|NLP|이정철||
-| 012 |2021-03-30||김혜진||
+| 012 |2021-03-30|Koa.js|김혜진||
 | 013 |2021-04-06||박건웅||
 | 014 |2021-04-13||박규현||
 | 015 |2021-04-20||염정아||
