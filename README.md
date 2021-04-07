@@ -17,7 +17,7 @@
 | 010 |2021-03-16|알고리즘 구현|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/3%EC%9B%94/20210316%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B5%AC%ED%98%84.pptx)|
 | 011 |2021-03-23|NLP|이정철||
 | 012 |2021-03-30|Koa.js|김혜진||
-| 013 |2021-04-06||박건웅||
+| 013 |2021-04-06|Crawling|박건웅|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/4%EC%9B%94/%EC%84%B8%EB%AF%B8%EB%82%986.pptx)|
 | 014 |2021-04-13||박규현||
 | 015 |2021-04-20||염정아||
 | 016 |2021-04-27||이정철||
