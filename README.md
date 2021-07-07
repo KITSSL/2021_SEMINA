@@ -25,6 +25,6 @@
 | 018 |2021-05-26||김원렬||
 | 019 |2021-06-02||손주혜||
 | 020 |2021-06-09|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/commit/793f4754e2b05081a78a25866bb63a382e1f0ab9)|
-| 0?? |2021-07-07||이정철||
+| 0?? |2021-07-07|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/commit/d665b30be894db9bf03fd6c52749e2211ca8a862)|
 
 
