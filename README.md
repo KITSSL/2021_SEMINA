@@ -21,10 +21,10 @@
 | 014 |2021-04-14||??||
 | 015 |2021-04-23||??||
 | 016 |2021-04-28||??||
-| 017 |2021-05-12|오픈스택 개요|염정아|[link](https://github.com/KITSSL/2021_SEMINA/commit/352108c55497173436db23ac915446ed8c01b9cb)|
+| 017 |2021-05-12|오픈스택 개요|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/5%EC%9B%94/20210512%20%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D%EA%B0%9C%EC%9A%94.pptx)|
 | 018 |2021-05-26||김원렬||
 | 019 |2021-06-02||손주혜||
-| 020 |2021-06-09|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/commit/793f4754e2b05081a78a25866bb63a382e1f0ab9)|
-| 0?? |2021-07-07|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/commit/d665b30be894db9bf03fd6c52749e2211ca8a862)|
+| 020 |2021-06-09|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/6%EC%9B%94/20210609%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
+| 0?? |2021-07-07|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/20210707%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
 
 
