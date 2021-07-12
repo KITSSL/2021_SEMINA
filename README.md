@@ -18,10 +18,11 @@
 | 11 |2021-03-23|NLP|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/4%EC%9B%94/%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC.pptx)|
 | 12 |2021-03-30|Koa.js|김혜진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/3%EC%9B%94/210330_Koa.pptx)|
 | 13 |2021-04-06|Crawling|박건웅|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/4%EC%9B%94/%EC%84%B8%EB%AF%B8%EB%82%986.pptx)|
-| 14 |2021-05-12|오픈스택 개요|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/5%EC%9B%94/20210512%20%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D%EA%B0%9C%EC%9A%94.pptx)|
-| 15 |2021-05-26||김원렬||
-| 16 |2021-06-02|임베디드 시스템|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/6%EC%9B%94/20210602%EC%84%B8%EB%AF%B8%EB%82%98%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)|
-| 17 |2021-06-09|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/6%EC%9B%94/20210609%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
-| 18 |2021-07-07|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/20210707%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
+| 14 |2021-04-14|퍼셉트론|박규현|link|
+| 15 |2021-05-12|오픈스택 개요|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/5%EC%9B%94/20210512%20%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D%EA%B0%9C%EC%9A%94.pptx)|
+| 16 |2021-05-26||김원렬||
+| 17 |2021-06-02|임베디드 시스템|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/6%EC%9B%94/20210602%EC%84%B8%EB%AF%B8%EB%82%98%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)|
+| 18 |2021-06-09|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/6%EC%9B%94/20210609%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
+| 19 |2021-07-07|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/20210707%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
 
 
