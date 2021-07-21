@@ -30,7 +30,7 @@
 | 23 |2021-07-21|GIS기반 공간분석|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/20210721%20GIS%EA%B8%B0%EB%B0%98%20%EA%B3%B5%EA%B0%84%EB%B6%84%EC%84%9D.pptx)|
 | 24 |2021-07-21|클라우드|신재영|[link]|
 | 25 |2021-07-21|컴퓨터 그래픽스 (2)|김원렬|[link]|
-| 26 |2021-07-21|리액트|손주혜|[link]|
+| 26 |2021-07-21|리액트|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/5a9eda55b2c5310f8c1df0ca0d22a541a7967814)|
 | 27 |2021-07-28||이정철|[link]|
 | 28 |2021-07-28||박건웅|[link]|
 | 29 |2021-07-28||박규현|[link]|
