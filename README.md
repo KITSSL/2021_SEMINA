@@ -22,8 +22,8 @@
 | 15 |2021-05-12|오픈스택 개요|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/5%EC%9B%94/20210512%20%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D%EA%B0%9C%EC%9A%94.pptx)|
 | 16 |2021-05-26|컴퓨터 그래픽스 (1)|김원렬|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/5%EC%9B%94/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B7%B8%EB%9E%98%ED%94%BD%EC%8A%A4-1%EB%B2%88%EC%A7%B8.pptx)|
 | 17 |2021-06-02|임베디드 시스템|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/6%EC%9B%94/20210602%EC%84%B8%EB%AF%B8%EB%82%98%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)|
-| 18 |2021-06-09|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/6%EC%9B%94/20210609%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
-| 19 |2021-07-07|Transformer|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/20210707%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
+| 18 |2021-06-09|Transformer (1)|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/6%EC%9B%94/20210609%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
+| 19 |2021-07-07|Transformer (2)|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/20210707%EC%84%B8%EB%AF%B8%EB%82%98Transformer.pptx)|
 | 20 |2021-07-14|회원가입과 로그인 구현|김혜진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/210714_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EA%B3%BC%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.pptx)|
 | 21 |2021-07-14|Redux|박건웅|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/%EC%84%B8%EB%AF%B8%EB%82%987.pptx)|
 | 22 |2021-07-14|AutoEncoder|박규현|[link]|
