@@ -33,7 +33,7 @@
 | 26 |2021-07-21|React.js|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/5a9eda55b2c5310f8c1df0ca0d22a541a7967814)|
 | 27 |2021-07-28||이정철|[link]|
 | 28 |2021-07-28||박건웅|[link]|
-| 29 |2021-07-28||박규현|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/autoEncoder.ipynb)|
+| 29 |2021-07-28||박규현|[link]|
 | 30 |2021-07-28||김혜진||
 
 
