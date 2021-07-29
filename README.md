@@ -31,7 +31,7 @@
 | 24 |2021-07-21|클라우드|신재영|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/01%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%ED%99%98%EA%B2%BD%20%EB%B3%80%ED%99%94%EC%9D%98%20%EC%8B%9C%EC%9E%91%2C%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_V1.0_%EC%8B%A0%EC%9E%AC%EC%98%81.pptx)|
 | 25 |2021-07-21|컴퓨터 그래픽스 (2)|김원렬|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/20200252%20computer%20graphics_2%20%EA%B9%80%EC%9B%90%EB%A0%AC.pptx)|
 | 26 |2021-07-21|React.js|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/5a9eda55b2c5310f8c1df0ca0d22a541a7967814)|
-| 27 |2021-07-28||이정철|[link]|
+| 27 |2021-07-28| Variational Auto Encoder |이정철|[link](https://github.com/KITSSL/2021_SEMINA/commit/6d4963b59f995b953807438a9be6c88a2408b67c)|
 | 28 |2021-07-28||박건웅|[link]|
 | 29 |2021-07-28||박규현|[link](https://github.com/KITSSL/2021_SEMINA/commit/5787edb59413372d41fcd154a849e1a7c2019e53)|
 | 30 |2021-07-28||김혜진|[link]|
@@ -39,7 +39,6 @@
 | 28 |2021-08-04||신재영|[link]|
 | 29 |2021-08-04||김원렬|[link]|
 | 30 |2021-08-04||손주혜|[link]|
-
 
 
 
