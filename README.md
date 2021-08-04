@@ -38,7 +38,7 @@
 | 27 |2021-08-04|R 프로그래밍|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/20210803%20R%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pptx)|
 | 28 |2021-08-04||신재영|[link]|
 | 29 |2021-08-04||김원렬|[link]|
-| 30 |2021-08-04||손주혜|[link]|
+| 30 |2021-08-04||손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/441bcb44874272ec644b85351c13c496c8c657f9)|
 
 
 
