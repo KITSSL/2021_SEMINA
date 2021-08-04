@@ -33,7 +33,7 @@
 | 26 |2021-07-21|React.js|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/5a9eda55b2c5310f8c1df0ca0d22a541a7967814)|
 | 27 |2021-07-28| Variational Auto Encoder |이정철|[link](https://github.com/KITSSL/2021_SEMINA/commit/6d4963b59f995b953807438a9be6c88a2408b67c)|
 | 28 |2021-07-28||박건웅|[link]|
-| 29 |2021-07-28||박규현|[link](https://github.com/KITSSL/2021_SEMINA/commit/5787edb59413372d41fcd154a849e1a7c2019e53)|
+| 29 |2021-07-28|MNIST|박규현|[link](https://github.com/KITSSL/2021_SEMINA/commit/5787edb59413372d41fcd154a849e1a7c2019e53)|
 | 30 |2021-07-28||김혜진|[link]|
 | 27 |2021-08-04|R 프로그래밍|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/20210803%20R%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pptx)|
 | 28 |2021-08-04||신재영|[link]|
