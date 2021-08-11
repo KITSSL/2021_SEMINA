@@ -37,7 +37,7 @@
 | 30 |2021-07-28|회원가입과 로그인 구현|김혜진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/7%EC%9B%94/210714_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EA%B3%BC%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.pptx)|
 | 27 |2021-08-04|R 프로그래밍|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/20210803%20R%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pptx)|
 | 28 |2021-08-04||신재영|[link]|
-| 29 |2021-08-04|R프로그래밍|김원렬|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/20210803%20R%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pptx)|
+| 29 |2021-08-04||김원렬|[link]|
 | 30 |2021-08-04|React.js|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/441bcb44874272ec644b85351c13c496c8c657f9)|
 | 31 |2021-08-11||이정철|[link]|
 | 32 |2021-08-11||박규현|[link]|
