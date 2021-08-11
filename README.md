@@ -40,7 +40,7 @@
 | 29 |2021-08-04||김원렬|[link]|
 | 30 |2021-08-04|React.js|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/441bcb44874272ec644b85351c13c496c8c657f9)|
 | 31 |2021-08-11||이정철|[link]|
-| 32 |2021-08-11||박규현|[link]|
+| 32 |2021-08-11|FCN&U-Net|박규현|[link](https://github.com/KITSSL/2021_SEMINA/tree/main/8%EC%9B%94)|
 | 33 |2021-08-11||김혜진|[link]|
 | 34 |2021-08-11||신재영|[link]|
 | 35 |2021-08-11||김원렬|[link]|
