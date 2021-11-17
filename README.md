@@ -39,7 +39,7 @@
 | 32 |2021-08-04|오픈스택이란|신재영|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/02%20%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D%EC%9D%B4%EB%9E%80_%EC%8B%A0%EC%9E%AC%EC%98%81_V1.0.pptx)|
 | 33 |2021-08-04|컴퓨터 그래픽스 (3)|김원렬|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/20200252%20computer%20graphics_3%20%EA%B9%80%EC%9B%90%EB%A0%AC.pptx.pptx)|
 | 34 |2021-08-04|React.js|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/441bcb44874272ec644b85351c13c496c8c657f9)|
-| 35 |2021-08-11||이정철|[link]|
+| 35 |2021-08-11||이정철|[link]()|
 | 36 |2021-08-11|FCN&U-Net|박규현|[link](https://github.com/KITSSL/2021_SEMINA/tree/main/8%EC%9B%94)|
 | 37 |2021-08-11|DB 기초(2)|김혜진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/210811_DB%EA%B8%B0%EC%B4%882.pptx)|
 | 38 |2021-08-25|공공빅데이터 프로젝트|염정아|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/20210825%20%EA%B3%B5%EA%B3%B5%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_.pptx)|
