@@ -47,7 +47,7 @@
 | 40 |2021-08-25|컴퓨터 그래픽스 (4)|김원렬|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/8%EC%9B%94/20200252%20computer%20graphics_4%20%EA%B9%80%EC%9B%90%EB%A0%AC.pptx.pptx)|
 | 41 |2021-08-25|React.js|손주혜|[link](https://github.com/KITSSL/2021_SEMINA/commit/452649d8dd8accb2265169cba15153d545533c9d)|
 | 42 |2021-09-08|Machine Learning (1)|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/9%EC%9B%94/Machine%20Learning%20(1).pptx)|
-| 43 |2021-09-08|...|김혜진|[link]|
+| 43 |2021-09-08|DB 정규화|김혜진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/9%EC%9B%94/210908_DB%20%EC%A0%95%EA%B7%9C%ED%99%94.pptx)|
 | 44 |2021-09-15|블록체인|신재영|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/9%EC%9B%94/01.%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8V1.0.pptx)|
 | 45 |2021-09-15|EdgeConnect|박규현|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/9%EC%9B%94/EdgeConnect.pdf)|
 | 46 |2021-09-29|...|손주혜|[link]|
