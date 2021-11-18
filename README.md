@@ -55,6 +55,6 @@
 | 48 |2021-11-10|Machine Learning (2)|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/Machine%20Learning%20(2).pptx)|
 | 49 |2021-11-10|OAuth|김혜진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/211110_OAuth.pptx)|
 | 50 |2021-11-10|metrics|안예진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/20211110%20metrics%20%EC%95%88%EC%98%88%EC%A7%84.pdf)|
-| 51 |2021-11-10|...|신영한|[link]|
+| 51 |2021-11-10|spring|신영한|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/20211110%20Spring%20%EC%8B%A0%EC%98%81%ED%95%9C.pptx)|
 | 52 |2021-11-17|블록체인 기반 시스템 설계|신재영|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/02.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B8%B0%EB%B0%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84V1.0.pptx)|
 | 53 |2021-11-17|BERT기반감정분석|박규현|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/20211117%20BERT%20%EB%B0%95%EA%B7%9C%ED%98%84.pdf)|
