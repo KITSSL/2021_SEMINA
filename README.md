@@ -51,7 +51,7 @@
 | 44 |2021-09-15|블록체인|신재영|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/9%EC%9B%94/01.%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8V1.0.pptx)|
 | 45 |2021-09-15|EdgeConnect|박규현|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/9%EC%9B%94/EdgeConnect.pdf)|
 | 46 |2021-09-29|...|손주혜|[link]|
-| 47 |2021-10-06|...|김원렬|[link]|
+| 47 |2021-10-06|컴퓨터 그래픽스 (5)|김원렬|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/10%EC%9B%94/20211006%20computer%20graphics%205%20%EA%B9%80%EC%9B%90%EB%A0%AC.pptx)|
 | 48 |2021-11-10|Machine Learning (2)|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/Machine%20Learning%20(2).pptx)|
 | 49 |2021-11-10|OAuth|김혜진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/211110_OAuth.pptx)|
 | 50 |2021-11-10|metrics|안예진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/20211110%20metrics%20%EC%95%88%EC%98%88%EC%A7%84.pdf)|
