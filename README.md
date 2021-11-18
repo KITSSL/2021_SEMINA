@@ -53,7 +53,7 @@
 | 46 |2021-09-29|...|손주혜|[link]|
 | 47 |2021-10-06|...|김원렬|[link]|
 | 48 |2021-11-10|Machine Learning (2)|이정철|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/Machine%20Learning%20(2).pptx)|
-| 49 |2021-11-10|...|김혜진|[link]|
+| 49 |2021-11-10|OAuth|김혜진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/211110_OAuth.pptx)|
 | 50 |2021-11-10|metrics|안예진|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/20211110%20metrics%20%EC%95%88%EC%98%88%EC%A7%84.pdf)|
 | 51 |2021-11-10|...|신영한|[link]|
 | 52 |2021-11-17|블록체인 기반 시스템 설계|신재영|[link](https://github.com/KITSSL/2021_SEMINA/blob/main/11%EC%9B%94/02.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%98%95%EC%83%81%EA%B4%80%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B8%B0%EB%B0%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84V1.0.pptx)|
